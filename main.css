@@ -55,6 +55,16 @@ padding: 20px;
 text-align: center;
 }
 
+/* Label */
+#formItem label {
+display: block;
+text-align: center;
+line-height: 150%;
+font-size: .85em;
+align-items: center;
+justify-content: center;
+}
+
 /* Footer */
 .footer {
 padding: 20px;

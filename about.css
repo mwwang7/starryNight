@@ -63,6 +63,19 @@ background-color: white;
 padding: 20px;
 }
 
+.bar
+{
+  text-align: left;
+  font-size: 20px;
+  color: black;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  height: 30%;
+  width:80%;
+}
+
 /* Main column */
 .main {   
 -ms-flex: 70%; /* IE10 */
