@@ -61,8 +61,7 @@ display: block;
 text-align: center;
 line-height: 150%;
 font-size: .85em;
-align-items: center;
-justify-content: center;
+margin-block-start: 500;
 }
 
 /* Footer */
